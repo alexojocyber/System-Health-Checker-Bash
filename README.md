@@ -1,4 +1,5 @@
-<img width="1920" height="1080" alt="Screenshot 2025-12-01 040157" src="https://github.com/user-attachments/assets/2a4aef31-a22b-450d-826b-049c19175e5e" /># System Health Checker — Bash Script
+# System Health Checker — Bash Script
+
 
 A simple Bash automation script that displays key system information including:
 - Uptime
